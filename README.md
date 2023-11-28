@@ -1,1 +1,1 @@
-# rock-paper-scissors
+I created a python program that will help users to play rock, paper, scissors along with the computer. In this program, I used a random function for generating the random output by the computer side. The user will make the first move and then the program makes one. Then a function will check the validity of the move. At last, the result will be displayed and ask the user to play again or not.
